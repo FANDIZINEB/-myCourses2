@@ -26,3 +26,9 @@ npx expo start
 - components/ : écrans de l'application
 - testData.js : données de test
 - assets/ : images des formations
+## Screenshots
+
+![Catalogue](screenshots/catalogue.png)
+![Panier](screenshots/panier.png)
+![Formulaire](screenshots/formulaire.png)
+![Historique](screenshots/historique.png)
